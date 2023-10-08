@@ -14,7 +14,7 @@
   <img align="center" alt="VA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VA-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VA-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="WZ" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-1289.gif">
+  <img align="right" alt="GIF-WZ" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-1289.gif">
 </div>
   
   ##
